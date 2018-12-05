@@ -1,0 +1,16 @@
+.Magic {
+    height: 300px;
+}
+.Carriage {
+    height: 300px;
+}
+.Cinderella {
+    height: 300px;
+}
+.Cinderelle {
+    display:none;
+}
+body {
+    background-image: url(https://cdn.pixabay.com/photo/2017/09/05/23/01/background-2719572_960_720.jpg);
+    text-align:center;
+}
